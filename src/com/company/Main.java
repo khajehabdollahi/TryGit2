@@ -7,5 +7,8 @@ public class Main {
         System.out.println("I think I can manage it");
         System.out.println("I think I can manage it");
         System.out.println("I think I can manage it");
+        System.out.println("I think I can manage it");
+        System.out.println("I think I can manage it");
+        System.out.println("I think I can manage it");
     }
 }
